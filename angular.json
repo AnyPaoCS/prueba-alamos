@@ -28,7 +28,7 @@
             ],
             "scripts": [
             
-              "src/app/layout/menu-principal/funcionJS.js"
+              
             ],
             "es5BrowserSupport": true
           },
